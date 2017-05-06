@@ -163,7 +163,6 @@
     <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Shopping\Index.cshtml" />
     <Content Include="Views\Shopping\Detail.cshtml" />
-    <Content Include="Views\Shared\_LayoutForShopping.cshtml" />
     <Content Include="Views\Shopping\_Left.cshtml" />
   </ItemGroup>
   <ItemGroup>
